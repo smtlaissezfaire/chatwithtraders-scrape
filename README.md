@@ -1,7 +1,7 @@
 
-chat with traders
+chat with traders (scraped)
 
-scraped for my run
+scraped for my runs
 
 HOW:
 
