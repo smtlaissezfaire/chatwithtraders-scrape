@@ -6,6 +6,5 @@ scraped for my run
 HOW:
 
 ```
-./download.sh
-ruby symlink.rb
+./run
 ```
